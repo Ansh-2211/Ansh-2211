@@ -4,7 +4,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ansh-2211.Ansh-2211" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Hey+There,+Explorer!+🧭;+I'm+Ansh+Chauhan!+🖥️;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9370DB&lines=Hey+There,+Explorer!+🧭;+I'm+Ansh+Chauhan!+🖥️;" />
 </h1>
 
 <h3 align="center">An enthusiastic Machine Learning Engineer committed to pushing the boundaries of AI innovation</h3>
@@ -39,7 +39,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" style= "color: #1E90FF" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,html,css,javascript,vscode,github,git" /><br>
@@ -71,7 +71,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" >⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ansh-2211&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -85,5 +85,5 @@
 <hr/>
 
 <h3 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Thanks+for+visiting+😎; +I'm+ready+to+collaborate+and+turn+our+visions+into+reality!+🤖;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9370DB&lines=Thanks+for+visiting+😎; +I'm+ready+to+collaborate+and+turn+our+visions+into+reality!+🤖;"/>
 </h3>
